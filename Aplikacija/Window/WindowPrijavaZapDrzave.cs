@@ -44,7 +44,7 @@ namespace Aplikacija
 
         private void metroButton4_Click(object sender, EventArgs e)
         { 
-            bool uspjesnaprijava = DBKapetanBroda.prijavaKBroda(TextBoxIme.Text, TextBoxSifra.Text);
+            bool uspjesnaprijava = DBZapDrzave.prijavaDrzZaposlenik(TextBoxIme.Text, TextBoxSifra.Text);
             if (uspjesnaprijava == true)
             {
                 this.Hide();

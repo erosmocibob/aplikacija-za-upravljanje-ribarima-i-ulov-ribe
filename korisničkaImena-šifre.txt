@@ -1,0 +1,7 @@
+Ribar:
+Korisnièko ime: Ivan
+Šifra: aaa111
+
+Zaposlenik države:
+Korisnièko ime: Filip
+Šifra: aaa111

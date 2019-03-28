@@ -32,3 +32,37 @@ C:\Users\eros\Desktop\apli\Aplikacija\Aplikacija\obj\Debug\Aplikacija.WindowPoce
 C:\Users\eros\Desktop\apli\Aplikacija\Aplikacija\obj\Debug\Aplikacija.WindowUrediInf.resources
 C:\Users\eros\Desktop\apli\Aplikacija\Aplikacija\obj\Debug\Aplikacija.WindowPovijestUlova.resources
 C:\Users\eros\Desktop\apli\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojAssemblyReference.cache
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\EntityFramework.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\MetroFramework.Design.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\MetroFramework.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\System.Data.SQLite.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\EntityFramework.xml
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\System.Data.SQLite.xml
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.csprojAssemblyReference.cache
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowPocetnaZapDrzv.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowPovijestUlova.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowPovijestUlovaRadnika.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowPrijava.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowPrijavaRibara.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowPrijavaZapDrzave.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowUnosBroda.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowUnosRadnika.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowUnosUlova.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowUrediInf.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.WindowUrediRadnikeNaBrodu.resources
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.csproj.CopyComplete
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\eros\Desktop\apli\aplikacija za upravljanje ribara i ulov ribe\aplikacija za upravljanje ribara i ulov ribe\Aplikacija\obj\Debug\Aplikacija.pdb
